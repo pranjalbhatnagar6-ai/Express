@@ -20,8 +20,6 @@ function ipCheck(req, resp, next){
     console.log(ip)
     if(ip.includes("10.228.131.218")) //The website will not run on this IP Address
         {
-
-
         resp.send("Alert! You can not access this page") 
         }
     else{
