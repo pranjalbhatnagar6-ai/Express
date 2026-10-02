@@ -1,0 +1,11 @@
+what is template engine?
+
+Create dynamic web pages by merging HTML templates with data from the server
+
+node ke data ko html per dikhana 
+node.js ke data ko HTML per embedd kar dete hai
+
+Top template engine
+EJS (Embedded JavaScript)
+Pug(formely Jade)
+Handlebars
