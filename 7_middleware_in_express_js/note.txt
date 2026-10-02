@@ -1,0 +1,1 @@
+Middleware in express.js is a function that runs before the final route handler.
