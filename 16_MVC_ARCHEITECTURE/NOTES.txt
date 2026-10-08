@@ -1,0 +1,14 @@
+#Model,veiws,controller + Router
+Model - (Data ka sara iske andar hoga)
+    Represent your data in your code
+    Work with your data (e.g. save, fetch)
+
+veiws -
+    Whats the users sees
+    Decoupled from your application code
+
+Router-controller :
+    Connecting your model and your views
+    Contains the "In-between" logic
+
+User -->controller ---__Manupulates__---> Model ---> _Updates_ --> view-->User
